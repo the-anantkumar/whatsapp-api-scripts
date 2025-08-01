@@ -1,6 +1,6 @@
 import pywhatkit as kit
 
-phone_number = "+91 9873989155"
-message = "Hey! Sending this message from nvim lol"
+phone_number = "+911234567890"
+message = "Hey! Sending this message from my terminal lol!! :P"
 
-kit.sendwhatmsg(phone_number, message)
+kit.sendwhatmsg(phone_number, message, 3, 55)
